@@ -1,4 +1,4 @@
-- 👋 Hey everyone, my names @Stefan-George. Background? I am a:
+👋 Hey everyone, my names @Stefan-George. Background? I am a:
 
 - Data Scientist
 - Biologist
