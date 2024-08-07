@@ -1,5 +1,5 @@
 # 👋 **Welcome, my names Stefan** 
-**===================================================================================================**
+**=============================================================================================**
 
 Thank you for visiting my GitHub Profile. 😄
 
@@ -8,7 +8,7 @@ I use techniques such as, data analysis, data visuallization, statistical analys
 Take a look at my projects and please feel free to contact me if you would like to discuss them further.
 
 # **About Me**
-**===================================================================================================**
+**=============================================================================================**
 ## **🎓 Education**
 - Bootcamp, Data Science Diploma - **Brainstation**
 - Bachelors with Honours, BSc Hons Biological Sciences - **University of Westminster**
@@ -25,7 +25,7 @@ Take a look at my projects and please feel free to contact me if you would like 
  ## **📚 Pursuit of Knowledge**
 - 🌱 I am currently nurturing my interest in data science and asking myself, how better to adapt and apply the techniques learnt to real problems.
 
-**===================================================================================================**
+**=============================================================================================**
 
 # **📊 Projects**
 
@@ -45,7 +45,7 @@ The project involves univariate and bivariate analysis, binary and ordinal encod
 
 - [HAI-Heart Attack Indicators](https://github.com/Stefan-George/Heart-Attack-Indicators)
 
-**===================================================================================================**
+**=============================================================================================**
 
 # **🧰 Skills**
 
@@ -53,7 +53,7 @@ The project involves univariate and bivariate analysis, binary and ordinal encod
 - **Data Visuallization:** Tableau, Matplotlib, Seaborn, Plotly
 - **Big Data:** Hadoop, Spark, AWS
 
-**===================================================================================================**
+**=============================================================================================**
 
 # **⚡ Contact & Connect with me**
 
