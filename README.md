@@ -7,7 +7,8 @@ I am a dedicated data scientist. Uncovering key insights needed, to make the dat
 I use techniques such as, data analysis, data visuallization, statistical analysis and machine learning. I believe teamwork is key and am a natural collaborator. 
 Take a look at my projects and please feel free to contact me if you would like to discuss them further.
 
-# **About Me**
+**=============================================================================================**
+# **🏆 About Me**
 **=============================================================================================**
 ## **🎓 Education**
 - Bootcamp, Data Science Diploma - **Brainstation**
@@ -26,10 +27,10 @@ Take a look at my projects and please feel free to contact me if you would like 
 - 🌱 I am currently nurturing my interest in data science and asking myself, how better to adapt and apply the techniques learnt to real problems.
 
 **=============================================================================================**
-
 # **📊 Projects**
+**=============================================================================================**
 
-**HAI - Heart Attack Indicators**
+**🫀 HAI - Heart Attack Indicators** 
 
 - Understanding and showing the most and least important indicators of heart attacks using American CDC annual survey data. 
 This project allows a person to know if they are at high or low risk based on a few simple general health questions.
@@ -41,24 +42,23 @@ The project involves univariate and bivariate analysis, binary and ordinal encod
 **Libraries Used**
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Imbalanced-learn
 
-**🌐 Project Link**
+**⚡ Project Link**
 
 - [HAI-Heart Attack Indicators](https://github.com/Stefan-George/Heart-Attack-Indicators)
 
 **=============================================================================================**
-
 # **🧰 Skills**
-
+**=============================================================================================**
 - **Programming Languages:** Python, SQL, R
 - **Data Visuallization:** Tableau, Matplotlib, Seaborn, Plotly
 - **Big Data:** Hadoop, Spark, AWS
 
 **=============================================================================================**
+# **🌐 Connect & Contact with me**
+**=============================================================================================**
 
-# **⚡ Contact & Connect with me**
-
-**LinkedIn:**
-- www.linkedin.com/in/stefangeorge-
+**Social:**
+- LinkedIn: www.linkedin.com/in/stefangeorge-
 
 **Email:**
 - Gmail: stefanxgeorge@gmail.com
